@@ -90,7 +90,7 @@ export default function ContactPage() {
             </div>
             <button
               type="submit"
-              className="bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-800 transition duration-200"
+              className="bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-800 transition duration-200 cursor-pointer"
             >
               Send Message
             </button>
